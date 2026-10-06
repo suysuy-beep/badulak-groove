@@ -7,6 +7,7 @@ export const PRODUCTS = [
   {id:'tobacco',name:'Tabaco',category:'daily',price:350,bg:'#e3dcd2',art:'tobacco'},
   {id:'lighter',name:'Mechero',category:'daily',price:200,bg:'#e8d0cb',art:'lighter'},
   {id:'fries',name:'Papas a la francesa',category:'daily',price:100,bg:'#f0e0bb',art:'fries'},
+  {id:'burrito',name:'Burritos',category:'daily',price:200,bg:'#ecd9bd',art:'burrito'},
   {id:'white',name:'Tablet blanca',category:'tech',price:35000,bg:'#e0dfd8',art:'white'},
   {id:'drink',name:'Bebida',category:'daily',price:100,bg:'#d6e2dd',art:'drink'},
   {id:'ticket',name:'Ticket dorado semanal',category:'extras',price:10000,bg:'#e8d5a9',art:'ticket',tag:'Sorteo semanal'}
